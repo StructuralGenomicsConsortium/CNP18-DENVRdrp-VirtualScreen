@@ -13,12 +13,14 @@ For answers to all the questions you have, go to the [FAQs](https://www.thesgc.o
 If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki)
 
 Some of people involved in this CNP:  
-Professor Matthew Todd, UCL, Head of Chemistry Networks at the SGC @mattodd  
-Dr Rebecka Isaksson, UCL, chemistry @RebeckaIsaksson  
-Dr Peter Brown, UNC, chemistry  
-Dr Konstantin Popov, UNC, computational chemistry  
-Dr Anwar Hossain, UNC, chemistry @ahsgc  
-Dr Tina Leisner, UNC, biological testing 
+Professor Matthew Todd, University College London, Head of Chemistry Networks at the SGC @mattodd  
+Dr Rebecka Isaksson, Univeristy College London, chemistry lead @RebeckaIsaksson  
+Dr Peter Brown, University North Carolina, project manager  
+Dr Konstantin Popov, University North Carolina, computational chemistry  
+Dr Tina Leisner, University North Carolina, biological testing (protein inhibition)  
+Dr Jessica Smith, Oregon Health & Science University, biological testing (antiviral assay)  
+Dr Anwar Hossain, University North Carolina, compound managment @ahsgc  
+
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): vacant
