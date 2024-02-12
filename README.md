@@ -1,6 +1,6 @@
 # CNP18-DENVRdrp-VirtualScreen
 
-An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 18) devoted to the dengue virus (DENV) RdRp, focusing specifically on exploring the LifeChemicals library.
+An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 18) devoted to the dengue virus (DENV) RdRp, focusing specifically on exploring the the enamine library and virtual screening of this library against a site on the protein.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
