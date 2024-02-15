@@ -6,7 +6,7 @@ You contribute synthetic chemistry and in return the SGC offers biology. Togethe
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP18-DENVRdrp-VirtualScreen/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP18-DENVRdrp-VirtualScreen/wiki/The-Story-So-Far).
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP18-DENVRdrp-VirtualScreen/wiki) to check out the living paper that is being written there.
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
