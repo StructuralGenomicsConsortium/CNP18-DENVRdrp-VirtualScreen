@@ -1,0 +1,117 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1715075742378">
+<rowcount="21">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="SmilesFragFp">
+<columnProperty="parent	Structure of SMILES 2">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="FragFp">
+<columnProperty="parent	Structure of SMILES">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure of SMILES">
+<columnProperty="specialType	idcode">
+<columnName="Structure of SMILES 2">
+<columnProperty="specialType	idcode">
+</column properties>
+SmilesFragFp	FragFp	ID	Column	Structure of SMILES	Structure of SMILES 2	SMILES	Vender	DIST	Cluster	glide gscore	James	Column 1
+vzUQvIzvGOinYq2D2t2N2Q0F041Gh1!c10a18H!81N!514!Z040V8FV1V2#4482104080W020204VcFF	vzUQvIzvGOinYq2D2t2N2Q0F041Gh1!c10a18H!81N!514!Z040V8FV1V2#4482104080W020204VcFF	PV-006726363246	-1	fnsHC@MFmdD`bPqHYEHXhheDbmheHwhu[UA@YAEUAPR`@	fnsHC@MFmdD`bPqHYEHXhheDbmheHwhu[UA@YAEUAPR`@	N#Cc1c(NC[C@H]2CCCN2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.475	63	-8.192	pick	
+zrUlrlOOtF4k1F2D2N2G2N2FV40F91$la18240N08!W!10V!4F8NV1V2!c0482104#10202!VcFF	zrUlrlOOtF4k1F2D2N2G2N2FV40F91$la18240N08!W!10V!4F8NV1V2!c0482104#10202!VcFF	PV-006737626283	3772	fcoIC@MFmfhIADabPrJPqQQJIE[ISQIRMzJ}uPPFPQTp@@@@@	fcoIC@MFmfhIADabPrJPqQQJIE[ISQIRMzJ}uPPFPQTp@@@@@	N#Cc1c(NCCNC(=O)c2ccccc2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.447	62	-6.847	pick	
+vzUn3ntGWN4k042D2N2V2N0k04FFd1!4HFZ18#8F8011!20V0V0JNHV012F!148310J1$202!WcFk	vzUn3ntGWN4k042D2N2V2N0k04FFd1!4HFZ18#8F8011!20V0V0JNHV012F!148310J1$202!WcFk	PV-006924330473	-1	fakhC@MFlwhIADabPrJPqQQJIE[JIRMzK^uPPFPQTlD@@	fakhC@MFlwhIADabPrJPqQQJIE[JIRMzK^uPPFPQTlD@@	N#Cc1c(NCCc2cn[nH]c2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.435	2756	-7.5	pick	
+[rUzrQy:YUrP7zOFrJ2nzlk8@1ggYCI5FB1N86AE4GHg24088nZHH208F4496104090W23VXF52cWF	[rUzrQy:YUrP7zOFrJ2nzlk8@1ggYCI5FB1N86AE4GHg24088nZHH208F4496104090W23VXF52cWF	PV-006962099757	-1	fegHc@MFmNhpRBICDadTabbbTRLVVVTd[r\ej``L`hji`dYQT@	fegHc@MFmNhpRBICDadTabbbTRLVVVTd[r\ej``L`hji`dYQT@	N#Cc1c(N2C[C@@H](CC(N)=O)[C@H](O)C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.498	233	-8.252	pick	
+>xzrTEo1qyz3RLmLzdFb4@pdWVNB1gpY9I40B1N0X13BGHb0ZV88qXHL28@Fo496104G10W27VXF52cWF	>xzrTEo1qyz3RLmLzdFb4@pdWVNB1gpY9I40B1N0X13BGHb0ZV88qXHL28@Fo496104G10W27VXF52cWF	PV-007027274284	-1	fi{Hc@MFlNoPRBICDadTabbbTRLVVadc^SdmTDAdEETpTLt@@	fi{Hc@MFlNoPRBICDadTabbbTRLVVadc^SdmTDAdEETpTLt@@	N#Cc1c(N2CCC(O)(C(N)=O)C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.533	41	-8.082	pick	
+zyzvTntldNBmVo1DFs2lVOHHF41I8392g4n6180V1OG80Fp!@504a4mV8!8@20c048258212488!H48XcG0	zyzvTntldNBmVo1DFs2lVOHHF41I8392g4n6180V1OG80Fp!@504a4mV8!8@20c048258212488!H48XcG0	PV-007031781385	21	fi{Pc@ENltD`bPqHYEHXhddYeDdeEKR\}GUAAduUA@ACu@@	fi{Pc@ENltD`bPqHYEHXhddYeDdeEKR\}GUAAduUA@ACu@@	N#Cc1ccc(C(=O)NC2Cc3cccc(O)c3C2)cc1C(F)(F)F	Enamine-REAL	0.659	719	-5.023	pick	
+;UvQztSyBnpoYTFtX0380HkZ1Q5@9VV824F8VV3d080F5!10V$80F!D#8482W16$2!608VcF0	;UvQztSyBnpoYTFtX0380HkZ1Q5@9VV824F8VV3d080F5!10V$80F!D#8482W16$2!608VcF0	Z1343299220	193	fleQC@EFRBPQHXdLbdLTRRJbRejJZhHLjjb@@	fleQC@EFRBPQHXdLbdLTRRJbRejJZhHLjjb@@	N#Cc1ccc(NC2CCOCC2)cc1C(F)(F)F	Enamine-REAL	0.565	6	-3.839		
+zyvI@Itl8NB2Vo3BFc0VVN0HF01393A2Z42018VV31F!FK!@5V0V12V#8B2!@#V841248#448XVG0	zyvI@Itl8NB2Vo3BFc0VVN0HF01393A2Z42018VV31F!FK!@5V0V12V#8B2!@#V841248#448XVG0	Z1864070177	5	fbmQB@NRbBHrJJIIEQIIQLEYr\pPYUTD@DET@@	fbmQB@NRbBHrJJIIEQIIQLEYr\pPYUTD@DET@@	N#Cc1ccc(NC2Cc3cccc(O)c3C2)cc1Cl	Enamine-REAL	0.71	725	-4.939	pick	
+:Uvzv:rSxvvyvzCvPHMNsKyBAUhW0Sd9ga9e0V080c!5221FdH10c8Tk2220V0F49H114%30Xk0VcFF	:Uvzv:rSxvvyvzCvPHMNsKyBAUhW0Sd9ga9e0V080c!5221FdH10c8Tk2220V0F49H114%30Xk0VcFF	Z5332002648	-1	fcoIC@MFltXIADabPrJPqQQJIFKKYJZRMyIZuPPFPTUTuA@@@	fcoIC@MFltXIADabPrJPqQQJIFKKYJZRMyIZuPPFPTUTuA@@@	CC(C)C(=O)NC1CCN(c2nc3ccccc3c(C(F)(F)F)c2C#N)CC1	Enamine-REAL	0.498	4	-7.709	pick	
+:Uvfttt_R4kWJYT2s202OFkV40O91!V!Z180g080N0O1!10V$8FV!2$482104#20202F0VcFF	:Uvfttt_R4kWJYT2s202OFkV40O91!V!Z180g080N0O1!10V$8FV!2$482104#20202F0VcFF	Z5332598505	-1	fasq@`FRC@@PVPkHMdDj}gefU^fsl}ZjhB@xJ`@@@	fasq@`FRC@@PVPkHMdDj}gefU^fsl}ZjhB@xJ`@@@	CC(CCS(C)=O)Nc1nc2ccccc2c(C(F)(F)F)c1C#N	Enamine-REAL	0.443	28	-7.418	pick	
+;UvQzQMQznADPEWOqPHvCFZ6XkxdFB81Bg18G10818F0304GHV04!8FZ2H2#449H10B$230XF42c1F	;UvQzQMQznADPEWOqPHvCFZ6XkxdFB81Bg18G10818F0304GHV04!8FZ2H2#449H10B$230XF42c1F	Z5332620492	-1	fi{qC@MFlLD`bPqHYEHXhheDcEehmHwdu{UA@YAQUTECM@@	fi{qC@MFlLD`bPqHYEHXhheDcEehmHwdu{UA@YAQUTECM@@	N#Cc1c(N2CCCCC(CO)C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.533	3	-7.523	pick	
+;UvUzvMUznQiyU1QrP7zhFTLakhxFNNdBgltG10B98N03L4FFZ04@88HZ2H2!2449L11B280V030X042c1F	;UvUzvMUznQiyU1QrP7zhFTLakhxFNNdBgltG10B98N03L4FFZ04@88HZ2H2!2449L11B280V030X042c1F	Z5333544898	-1	fewqC@MFmLD`bPqHYEHXhheDcEeddiF|gI^cj``L`hjj`kFXU]`@	fewqC@MFmLD`bPqHYEHXhheDcEeddiF|gI^cj``L`hjj`kFXU]`@	N#Cc1c(N2C[C@H]3CC[C@@H](O)C[C@H]3C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.549	84	-8.043	pick	
+:Uvzv:rS:vyvzCzUPMQxSzM3vjlFOvdgi1uGW081cd4E7JGHd242c8yo2H20V2449H11B081!30Xm4VcFF	:Uvzv:rS:vyvzCzUPMQxSzM3vjlFOvdgi1uGW081cd4E7JGHd242c8yo2H20V2449H11B081!30Xm4VcFF	Z5333566816	2349	fmoIC@MFmuXIADabPrJPqQQJIFKKSIZQoIKT\zhHCHJJjiB`@@	fmoIC@MFmuXIADabPrJPqQQJIFKKSIZQoIKT\zhHCHJJjiB`@@	N#Cc1c(N2CCC3NC(=O)CCC3C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.475	380	-7.959	pick	
+=v:rx<vUEzEHEPsSyEYUhpkOfcga3@8YN@0ec072X1Fh28288TkH228ZJ04921G420Vk0302m20c0F	=v:rx<vUEzEHEPsSyEYUhpkOfcga3@8YN@0ec072X1Fh28288TkH228ZJ04921G420Vk0302m20c0F	Z5333600472	-1	fcHc@MFlvZpRBICDadTabbbTRLVVrbbd[rRuWnjB@rBbjihJ@@	fcHc@MFlvZpRBICDadTabbbTRLVVrbbd[rRuWnjB@rBbjihJ@@	N#Cc1c(N2CCC(N3CCOC3=O)CC2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.498	258	-7.642	pick	
+;UvQzOMUxnOB@U1QmFANcFL42khd08NcBpGc#80c!12!FW#88Lq222$492G04%302X02c1F	;UvQzOMUxnOB@U1QmFANcFL42khd08NcBpGc#80c!12!FW#88Lq222$492G04%302X02c1F	Z5333693359	-1	fcopc@MFloXIADabPrJPqQQJIFKKZIIRMyIZuPPFPTUUUA@@@	fcopc@MFloXIADabPrJPqQQJIFKKZIIRMyIZuPPFPTUUUA@@@	N#Cc1c(N2CCC(CCO)(CCO)CC2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.58	5	-7.735	pick	
+;UvUxn1Tbk2ayUYP3F2S9FaJ0FflV801BZY8310B0N82324GHZ04088HVHF2!F4492104#W23V2F42c1F	;UvUxn1Tbk2ayUYP3F2S9FaJ0FflV801BZY8310B0N82324GHZ04088HVHF2!F4492104#W23V2F42c1F	Z5334058626	-1	fnsq@`MFltD`bPqHUdLbdLTTRbQbrrd[r\ej``L`hj`dYQT@	fnsq@`MFltD`bPqHUdLbdLTTRbQbrrd[r\ej``L`hj`dYQT@	N#Cc1c(N2C[C@@H](O)[C@H](F)C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.592	3	-8.028	pick	
+;UvUzvMUbn3iyUYQrNLxhFTJ6kzxkB89Bpn921VB0N823LBFFY04288LoHH2!H4Z9L11BH80103VXV42s1F	;UvUzvMUbn3iyUYQrNLxhFTJ6kzxkB89Bpn921VB0N823LBFFY04288LoHH2!H4Z9L11BH80103VXV42s1F	Z5334126698	-1	fa{qC@MFmTD`bPqHYEHXhheDcEeiIF|dkV}j``L`hjhJQeMP@	fa{qC@MFmTD`bPqHYEHXhheDcEeiIF|dkV}j``L`hjhJQeMP@	N#Cc1c(N2CC[C@@H]3C[C@]3(O)C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.549	134	-8.013	pick	
+:UvzvzUrO:QTPjCSTPPQCOx4Xlh_FBPdgz1PG1V81BV431gGHV242V8so2H2!24Z9HG0BH8#30Xk4VcFF	:UvzvzUrO:QTPjCSTPPQCOx4Xlh_FBPdgz1PG1V81BV431gGHV242V8so2H2!24Z9HG0BH8#30Xk4VcFF	Z5334401313	-1	fcIC@MFlOXIADabPrJPqQQJIFKKRY[RMyI^sWUA@YAQUUREPsP@	fcIC@MFlOXIADabPrJPqQQJIFKKRY[RMyI^sWUA@YAQUUREPsP@	N#Cc1c(N2CCCC3(CCC(=O)NC3)C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.482	207	-8.366	pick	
+;UvUzvM:nziyUYvrTUzdJyqYszxkgOWBgndIG4g9s9236_GH_0J@88LZIHX02F449610428VW23WXF42c1F	;UvUzvM:nziyUYvrTUzdJyqYszxkgOWBgndIG4g9s9236_GH_0J@88LZIHX02F449610428VW23WXF42c1F	Z5334405970	-1	fewpc@MFmVXIADabPrJPqQQJIFKKIKRMyNRm{UA@YAQUUAVLhl[@@	fewpc@MFmVXIADabPrJPqQQJIFKKIKRMyNRm{UA@YAQUUAVLhl[@@	N#Cc1c(N2C[C@@H]3[C@H](CO)CO[C@@H]3C2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.529	3	-7.995	pick	
+?UrUEqO5DzYRqF3ucFM4@otW08@8BZ3944080c!12!FW#88Lo6228@0F49610401#302V06c3F	?UrUEqO5DzYRqF3ucFM4@otW08@8BZ3944080c!12!FW#88Lo6228@0F49610401#302V06c3F	Z5335979298	-1	fi{pc@MFmtXIADabPrJPqQQJIFKKYRQoIKVjB@rBbjXH@@	fi{pc@MFmtXIADabPrJPqQQJIFKKYRQoIKVjB@rBbjXH@@	N#Cc1c(N2CCC(C(=O)O)CC2)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.561	4	-7.601	pick	
+;UvMzvGUilYq7DXt3F2UFFVJ1IjGV0V10ZWBHV080N1HC0412Z04V08HVGV2#4482104!1W22V2F4XcGF	;UvMzvGUilYq7DXt3F2UFFVJ1IjGV0V10ZWBHV080N1HC0412Z04V08HVGV2#4482104!1W22V2F4XcGF	Z5336165074	-1	fnsIC@MFlthIADabPrJPqQQJIEZZJQoQjvjB@rBJjBPEIP@	fnsIC@MFlthIADabPrJPqQQJIEZZJQoQjvjB@rBJjBPEIP@	N#Cc1c(N[C@H]2CNC[C@H]2O)nc2ccccc2c1C(F)(F)F	Enamine-REAL	0.447	80	-7.814	pick	
+<datawarrior properties>
+<axisColumn_2D View_0="Cluster">
+<axisColumn_2D View_1="glide gscore">
+<axisColumn_3D View_0="Cluster">
+<axisColumn_3D View_1="glide gscore">
+<axisColumn_3D View_2="DIST">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnFilter_Table="">
+<columnWidth_Table_Cluster="80">
+<columnWidth_Table_Column="80">
+<columnWidth_Table_Column 1="80">
+<columnWidth_Table_DIST="80">
+<columnWidth_Table_ID="123">
+<columnWidth_Table_James="80">
+<columnWidth_Table_SMILES="80">
+<columnWidth_Table_Structure of SMILES="100">
+<columnWidth_Table_Structure of SMILES 2="100">
+<columnWidth_Table_Vender="80">
+<columnWidth_Table_glide gscore="80">
+<detailView="height[Data]=0.33333;height[Structure of SMILES]=0.33333;height[Structure of SMILES 2]=0.33333">
+<faceColor3D_3D View="-1250054">
+<fastRendering_2D View="false">
+<fastRendering_3D View="false">
+<filter0="#browser#	#disabled#	ID	PV-006726363246">
+<filter1="#string#	ID">
+<filter10="#string#	Column 1">
+<filter2="#double#	Column">
+<filter3="#structure#	Structure of SMILES">
+<filter4="#structure#	Structure of SMILES 2">
+<filter5="#string#	SMILES">
+<filter6="#double#	DIST">
+<filter7="#double#	Cluster">
+<filter8="#double#	glide gscore">
+<filter9="#category#	James">
+<filterAnimation0="state=stopped">
+<filterAnimation2="state=stopped low2=80% high1=20% time=10">
+<filterAnimation6="state=stopped low2=80% high1=20% time=10">
+<filterAnimation7="state=stopped low2=80% high1=20% time=10">
+<filterAnimation8="state=stopped low2=80% high1=20% time=10">
+<headerLines_Table="2">
+<mainSplitting="0.72618">
+<mainView="Table">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.91">
+<mainViewDockInfo2="Table	right	0.497">
+<mainViewDockInfo3="2D View	right	0.497">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structure of SMILES">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.66103">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<scatterplotMargin_2D View="0.025">
+<scatterplotMargin_3D View="0.025">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<structureGridColumn_Structure of SMILES="Structure of SMILES">
+<structureGridColumns_Structure of SMILES="6">
+</datawarrior properties>
