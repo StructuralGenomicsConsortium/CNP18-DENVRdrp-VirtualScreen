@@ -15,13 +15,13 @@ For answers to all the questions you have, go to the [FAQs](https://www.thesgc.o
 
 If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki)
 
-Some of people involved in this CNP:  
+Some of people involved in this CNP, a more comprehensive list can be found [here](https://github.com/StructuralGenomicsConsortium/CNP18-DENVRdrp-VirtualScreen/wiki/Researchers-involved):  
 Professor Matthew Todd, University College London, Head of Chemistry Networks at the SGC - [@mattodd](https://github.com/mattodd)  
 Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](https://github.com/tmw20653)    
-Dr Rebecka Isaksson, Univeristy College London, chemistry lead - [@RebeckaIsaksson](https://github.com/RebeckaIsaksson)   
-Dr Peter Brown, University North Carolina Chapel Hill, project manager  
-Dr Konstantin Popov, University North Carolina Chapel Hill, computational chemistry - [@kipUNC](https://github.com/kipUNC)  
-Dr Tina Leisner, University North Carolina Chapel Hill, biological testing (protein inhibition)  
+Dr Rebecka Isaksson, University College London, chemistry lead - [@RebeckaIsaksson](https://github.com/RebeckaIsaksson)   
+Dr Peter Brown, University North Carolina Chapel Hill, project manager - [@toluene44](https://github.com/toluene44)   
+Dr Rahman Saleem, University College London, project manager - [@rahmanszsaleem](https://github.com/rahmanszsaleem)  
+Dr Konstantin Popov, University North Carolina Chapel Hill, computational chemistry - [@kipUNC](https://github.com/kipUNC)    
 Dr Jessica Smith, Oregon Health & Science University, biological testing (antiviral assay)  
 Dr Anwar Hossain, University North Carolina Chapel Hill, compound managment - [@ahsgc](https://github.com/ahsgc)     
 
